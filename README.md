@@ -11,3 +11,5 @@ Hyper-V machines expose COM1 and COM2 as named paths. These can be set up in the
 Once this file has been modified and saved simply run ```node compipeconn```. This will forward all input from the serial port to the named pipe and all input from the named pipe to the serial port.
 
 A sample config.js file is provided.
+
+When this is first cloned, one should run ```npm install``` to acquire and install the package dependencies. 
