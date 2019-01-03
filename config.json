@@ -1,11 +1,11 @@
 {
-	"pipe" :
-	{
-		"name" : "zwave"
-	},
-	"serial" :
-	{
-		"port" : "COM4",
-		"baudrate" : 115200
-	}
+    "pipe" :
+    {
+        "name" : "zwave"
+    },
+    "serial" :
+    {
+        "port" : "COM4",
+        "baudrate" : 115200
+    }
 }
