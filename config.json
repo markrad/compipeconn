@@ -1,0 +1,11 @@
+{
+	"pipe" :
+	{
+		"name" : "zwave"
+	},
+	"serial" :
+	{
+		"port" : "COM4",
+		"baudrate" : 115200
+	}
+}

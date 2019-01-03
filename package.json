@@ -1,0 +1,28 @@
+{
+  "name": "compipeconn",
+  "version": "1.0.0",
+  "description": "Connects a serial port to a named pipe on a Windows system",
+  "main": "nodecom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrad/compipeconn.git"
+  },
+  "keywords": [
+    "serial",
+    "namedpipe",
+    "hyperv",
+    "windows"
+  ],
+  "author": "Mark Radbourne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markrad/compipeconn/issues"
+  },
+  "homepage": "https://github.com/markrad/compipeconn#readme",
+  "dependencies": {
+    "serialport": "^7.1.1"
+  }
+}
